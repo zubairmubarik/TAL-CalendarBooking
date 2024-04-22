@@ -8,5 +8,5 @@
 4) I need to manage performance
 - Review Alogrithm and DB design 
 - To improve performance we can provide User options with availability slots
-- Instead of searching through all time slots linearly, I could maintain a sorted collection of occupied slots or  interval of occupied to find available slots.
+- Instead of searching through all time slots linearly, I could maintain a sorted collection of occupied slots or  inverse of occupied to find available slots.
 - Other options to improve and complete functionality
