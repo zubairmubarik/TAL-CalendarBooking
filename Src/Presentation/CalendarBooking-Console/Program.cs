@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //using System.Runtime.CompilerServices;
 using Application.Appointments.Commands.CreateAppointments;
+using Application.Appointments.Commands.UpdateAppointment;
 using Domain.Entities;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
